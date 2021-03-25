@@ -1,0 +1,167 @@
+{
+  "incidents": {
+    "incidence": [
+      {
+        "contact": {
+          "mail": "sergigallardo@ya.com",
+          "name": "Sergi",
+          "surname": "Gallardo",
+          "information": {
+            "Model": "Ordinador de sobretaula",
+            "type": "Component cremat",
+            "description": "Al encendre l'ordinador feia olor a cremat",
+            "photo": {
+              "#cdata-section": " https://drive.google.com/open?id=1ZdXxyumagUDmE32E8iz_Q1Lv3wq96jc"
+            },
+            "language": "Catala"
+          }
+        }
+      },
+      {
+        "contact": {
+          "mail": "egarcia@gamil.com",
+          "name": "Erik",
+          "surname": "Garcia",
+          "information": {
+            "Model": "Portatil",
+            "type": "Problemas d'inici",
+            "description": "El ordenador no enciende de la forma esperada",
+            "photo": {
+              "#cdata-section": "https://drive.google.com/open?id=1DW578auXFTyDvvNbktxGaWpaCRL0uGG2"
+            },
+            "language": "Castella"
+          }
+        }
+      },
+      {
+        "contact": {
+          "mail": "serpez68@gmail.com",
+          "name": "Sergi",
+          "surname": "Lopez",
+          "information": {
+            "Model": "iPhone 6",
+            "type": "Problema d'inici",
+            "description": "Pantalla agrietada",
+            "photo": {
+              "#cdata-section": "https://drive.google.com/open?id=19WwoMBXg-Kvxa3l_2aNIbNDKSJ5kFvSy"
+            },
+            "language": "Castella"
+          }
+        }
+      },
+      {
+        "contact": {
+          "mail": "neusmasip68@gmail.com",
+          "name": "Neus",
+          "surname": "Masip",
+          "information": {
+            "Model": "Xiaomi Redmi 7",
+            "type": "Problema d'inici",
+            "description": "Pantalla no es visualiza de la forma esperada",
+            "photo": {
+              "#cdata-section": "https://drive.google.com/open?id=1ApH6P3Em9Mo5fjmcgHmV2mr-LYpV888Z"
+            },
+            "language": "Catala"
+          }
+        }
+      },
+      {
+        "contact": {
+          "mail": "pauperez@gmail.com",
+          "name": "Pau",
+          "surname": "Perez",
+          "information": {
+            "Model": "Macbook Pro",
+            "type": "Problema d'inici",
+            "description": "Pantalla rota",
+            "photo": {
+              "#cdata-section": "https://drive.google.com/open?id=13YVN0ven2GuxLUqCHmb2av29ifwVVk6M"
+            },
+            "language": "Castella"
+          }
+        }
+      },
+      {
+        "contact": {
+          "mail": "rjones@gmail.com",
+          "name": "Rick",
+          "surname": "Jones",
+          "information": {
+            "Model": "iPhone X",
+            "type": "Component cremat",
+            "description": "My phone won't turn on",
+            "photo": {
+              "#cdata-section": "https://drive.google.com/open?id=1zb_qCNUc9KTD5YBtZbJxiETxzeYyyLS6"
+            },
+            "language": "Angles"
+          }
+        }
+      },
+      {
+        "contact": {
+          "mail": "lortes2003@gmail.com",
+          "name": "Laia",
+          "surname": "Cortes",
+          "information": {
+            "Model": "Ordinador Gaming",
+            "type": "Problemes de Sistema Operatiu",
+            "description": "El sistema no executa",
+            "photo": {
+              "#cdata-section": "https://drive.google.com/open?id=17zwz6j34e0f_HmpP3rXBQ8gqjcRvCr_J"
+            },
+            "language": "Catala"
+          }
+        }
+      },
+      {
+        "contact": {
+          "mail": "samartin@gmail.com",
+          "name": "Sara",
+          "surname": "Martinez",
+          "information": {
+            "Model": "Altavoz Bluetooth",
+            "type": "Problemes de so",
+            "description": "Los altavoces no suenan de la forma esperada y el controlador de volumen no funciona",
+            "photo": {
+              "#cdata-section": "https://drive.google.com/open?id=1Y1E9JVxg0lAuHCPy7mMi96F_alBwe_8Y"
+            },
+            "language": "Castella"
+          }
+        }
+      },
+      {
+        "contact": {
+          "mail": "aruiz@gmail.com",
+          "name": "Albert",
+          "surname": "Ruiz",
+          "information": {
+            "Model": "Razer Nari Essential",
+            "type": "Problemes de so",
+            "description": "Auricular derecho no funciona",
+            "photo": {
+              "#cdata-section": "https://drive.google.com/open?id=1neiFA5tXP38hwPrQKiUPTc0wSCVVHgi5"
+            },
+            "language": "Castella"
+          }
+        }
+      },
+      {
+        "contact": {
+          "mail": "mmarfil@gmail.com",
+          "name": "Marta",
+          "surname": "Marfil",
+          "information": {
+            "Model": "MP3",
+            "type": "Probremes d'inici",
+            "description": "No enciende",
+            "photo": {
+              "#cdata-section": "https://drive.google.com/open?id=1yWIXYxm4VTEn13yV5Hy8MniZj5sTWdWv"
+            },
+            "language": "Castella"
+          }
+        }
+      }
+    ]
+  },
+  "#omit-xml-declaration": "yes"
+}
